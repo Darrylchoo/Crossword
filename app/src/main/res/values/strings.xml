@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Crossword Puzzle</string>
+    <!-- Vertical Answers -->
+    <string-array name="vertical_answers">
+        <item>hot</item>
+        <item>tell</item>
+        <item>listen</item>
+        <item>read</item>
+        <item>people</item>
+    </string-array>
+
+    <!-- Horizontal Answers -->
+    <string-array name="horizontal_answers">
+        <item>start</item>
+        <item>children</item>
+        <item>clean</item>
+        <item>father</item>
+        <item>say</item>
+    </string-array>
+
+    <!-- Vertical Questions -->
+    <string-array name="vertical_questions">
+        <item>3. Very warm, high temperature</item>
+        <item>4. To describe with words</item>
+        <item>6. To hear and pay attention</item>
+        <item>8. To see and understand words</item>
+        <item>10. A group of human beings</item>
+    </string-array>
+
+    <!-- Horizontal Questions -->
+    <string-array name="horizontal_questions">
+        <item>1. To begin an activity</item>
+        <item>2. A group of young people</item>
+        <item>5. To remove dirt</item>
+        <item>7. A male parent</item>
+        <item>9. To speak words</item>
+    </string-array>
+</resources>
